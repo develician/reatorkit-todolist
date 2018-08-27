@@ -1,0 +1,56 @@
+PODS:
+  - Differentiator (3.0.2)
+  - ReactorKit (1.1.0):
+    - RxSwift (>= 4.0.0)
+  - ReusableKit (2.0.1):
+    - ReusableKit/Core (= 2.0.1)
+  - ReusableKit/Core (2.0.1)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+  - RxViewController (0.3.0):
+    - RxCocoa (>= 4.0.0)
+    - RxSwift (>= 4.0.0)
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - ReactorKit
+  - ReusableKit
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - RxViewController
+  - SnapKit
+  - Then
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Differentiator
+    - ReactorKit
+    - ReusableKit
+    - RxCocoa
+    - RxDataSources
+    - RxSwift
+    - RxViewController
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  ReactorKit: 26470a9eff5094fae909a30af0be7cd0cf8a182d
+  ReusableKit: 11b5bde14553a35bcf3979412dbfd1e690392f14
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+  RxViewController: 203510707e73dd95f147f0c387710e3ec80d2b0f
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: d6e5e67759db218f9e38abcf02d0c5114483bf69
+
+COCOAPODS: 1.5.3
